@@ -1,0 +1,1 @@
+{"name":"rinitagabahri-testdeletionofrepo","version":"1.0.0","description":"TestDeletionOfRepo","repositoryLayout":{"formatVersion":3,"format":"json","metaInformation":".gctsmetadata/","tableContent":"false"},"prerequisites":[{"component":"SAP_BASIS","release":"754","supportPackage":"0000"}]}
