@@ -1,1 +1,1 @@
-{"name":"rinitagabahri-testdeletionofrepo","version":"1.0.0","description":"rinitagabahri-TestDeletionOfRepo","repositoryLayout":{"formatVersion":3,"format":"json","objectStorage":"plain","metaInformation":".gctsmetadata/","tableContent":"true"}}
+{"name":"rinitagabahri-testdeletionofrepo","version":"1.0.0","description":"rinitagabahri-TestDeletionOfRepo","repositoryLayout":{"formatVersion":3,"format":"json","objectStorage":"plain","metaInformation":".gctsmetadata/","tableContent":"true"},"prerequisites":[{"component":"SAP_BASIS","release":"754","supportPackage":"0000"}]}
